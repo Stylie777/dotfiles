@@ -49,3 +49,6 @@ complete -o "nospace" -W "Contacts Calendar Dock Finder Mail Safari iTunes Syste
 
 # Default file permission: -rw-r--r--
 umask 022
+
+# CTest output on failure
+export CTEST_OUTPUT_ON_FAILURE=1
