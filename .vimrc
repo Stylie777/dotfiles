@@ -1,5 +1,5 @@
 " Use the PaachPuff theme
-colorscheme peachpuff
+colorscheme koehler
 set background=dark
 
 " Automatic commands
